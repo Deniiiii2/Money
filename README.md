@@ -23,4 +23,5 @@
 Рисунок 2 N = 500
 ## Тест 3
 ![image](https://user-images.githubusercontent.com/113837843/206850929-5d998c31-2958-4cfd-bc47-ba46588cdec8.png)
+
 Рисунок 3 N=20
